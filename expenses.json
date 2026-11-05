@@ -1,0 +1,97 @@
+[
+    {
+        "id": 5,
+        "title": "fries",
+        "amount": 100.0
+    },
+    {
+        "id": 5,
+        "title": "sugar",
+        "amount": 2.0
+    },
+    {
+        "id": 6,
+        "title": "sugar",
+        "amount": 200.0
+    },
+    {
+        "id": 7,
+        "title": "sugar",
+        "amount": 33.0
+    },
+    {
+        "id": 8,
+        "title": "frie",
+        "amount": 100.0
+    },
+    {
+        "id": 9,
+        "title": "chips",
+        "amount": 30.0
+    },
+    {
+        "id": 10,
+        "title": "fruit",
+        "amount": 90.0
+    },
+    {
+        "id": 11,
+        "title": "veg",
+        "amount": 2.0
+    },
+    {
+        "id": 13,
+        "title": "fries",
+        "amount": 3.0
+    },
+    {
+        "id": 14,
+        "title": "shampo",
+        "amount": 400.0
+    },
+    {
+        "id": 15,
+        "title": "sugar",
+        "amount": 33.0
+    },
+    {
+        "id": 17,
+        "title": "apple",
+        "amount": 22.0
+    },
+    {
+        "id": 18,
+        "title": "apple",
+        "amount": 50.0
+    },
+    {
+        "id": 19,
+        "title": "banana",
+        "amount": 200.0
+    },
+    {
+        "id": 20,
+        "title": "apple",
+        "amount": 22.0
+    },
+    {
+        "id": 21,
+        "title": "apple",
+        "amount": 23.46
+    },
+    {
+        "id": 22,
+        "title": "banana",
+        "amount": 44.99
+    },
+    {
+        "id": 23,
+        "title": "candy",
+        "amount": 55.0
+    },
+    {
+        "id": 24,
+        "title": "ww",
+        "amount": 23.0
+    }
+]
